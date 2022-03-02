@@ -1,10 +1,9 @@
 # CRUD JavaScript com localstorage
 
-Construir um projeto CRUD salvando os dados no localstorage.
+Projeto CRUD salvando os dados no localstorage.
 
-### Objetivo:
+### Tecnologias:
 
-* Praticar as seguintes tecnologias.
 * Html
 * Css
 * Flexbox
